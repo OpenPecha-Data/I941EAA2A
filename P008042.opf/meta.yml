@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS5
   title: ཟུར་མཁར་བའི་ཤེས་བྱའི་ཁོག་འབུགས
-  volume: ''
+  volume:
+    d0d24a7259df4dcfb16f61a20ad3642e:
+      image_group_id: I1PD450
+      title: Volume 1 of zur mkhar ba'i shes bya'i khog 'bugs
+      volume_number: 1
+      total_pages: 344
   author: ''
+ebook_metadata:
+  title: ཟུར་མཁར་བའི་ཤེས་བྱའི་ཁོག་འབུགས
+  author: ''
+  sku: P008042
+  cover: cover.jpg
+  layers:
+  - pagination
